@@ -1,6 +1,2 @@
-name: eth.recent_transactions
+name: @gloomweaver.my-first-app.eth.recent_transactions
 type: append
-firecache:
-  enabled: true
-  trigger: block_number
-  time_column: timestamp
